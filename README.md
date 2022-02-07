@@ -6,13 +6,13 @@
 <a href="https://linkedin.com/in/aseel dweedar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="15" width="30" /></a>
 <a href="https://www.leetcode.com/aseel_dweedar" target="blank">,<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aseel_dweedar" height="20" width="30" /></a> or reach me on <b>archaseel.1992@gmail.com</b>
 </p>
-
+<!-- 
 - 🔭 I’m currently working on:
 
-    [![triple-C](https://github-readme-stats.vercel.app/api/pin/?username=aseel-dweedar&repo=tripleC-native)](https://github.com/Aseel-Dweedar/tripleC-native)
+    [![triple-C](https://github-readme-stats.vercel.app/api/pin/?username=aseel-dweedar&repo=tripleC-native)](https://github.com/Aseel-Dweedar/tripleC-native) -->
 
 
-- 🌱 I’m currently learning **Redux**
+<!-- - 🌱 I’m currently learning **Redux** -->
 
 - 👨‍💻 All of my projects are available at [Assel Dweedar-portfolio](https://portfolio-aseel.netlify.app)
 
