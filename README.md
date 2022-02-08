@@ -6,16 +6,20 @@
 <a href="https://linkedin.com/in/aseel dweedar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="15" width="30" /></a>
 <a href="https://www.leetcode.com/aseel_dweedar" target="blank">,<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aseel_dweedar" height="20" width="30" /></a> or reach me on <b>archaseel.1992@gmail.com</b>
 </p>
-<!-- 
+
 - 🔭 I’m currently working on:
 
-    [![triple-C](https://github-readme-stats.vercel.app/api/pin/?username=aseel-dweedar&repo=tripleC-native)](https://github.com/Aseel-Dweedar/tripleC-native) -->
+<p>
 
+[![MEMORIES](https://github-readme-stats.vercel.app/api/pin/?username=aseel-dweedar&repo=memories-api-react)](https://github.com/Aseel-Dweedar/memories-api-react)
 
-<!-- - 🌱 I’m currently learning **Redux** -->
+[![MEMORIES](https://github-readme-stats.vercel.app/api/pin/?username=aseel-dweedar&repo=memories-client-react)](https://github.com/Aseel-Dweedar/memories-client-react)
+
+</p>
+
+- 🌱 I’m currently learning **Redux**
 
 - 👨‍💻 All of my projects are available at [Assel Dweedar-portfolio](https://portfolio-aseel.netlify.app)
-
 
 - 📄 Know about my experiences [Assel Dweedar-Resume](https://docs.google.com/document/d/1BWFNcgygQ5YMuwx2K6bBbZywYSQFnklJcKjaYlkR9kU/edit)
 
@@ -28,7 +32,7 @@
 <h2 align="left">📚 Reading Note & Blogs</h2>
 <hr>
 
-You can check my reading note, and alse the blogs I created here : 
+You can check my reading note, and alse the blogs I created here :
 
 - [reading-notes](https://aseel-dweedar.github.io/reading-notes)
 - [blogs](https://aseel-dweedar.github.io/reading-notes/blogs)
@@ -48,5 +52,3 @@ You can check my reading note, and alse the blogs I created here :
 ![Aseel's GitHub stats](https://github-readme-stats.vercel.app/api?username=aseel-dweedar)
 
 <br>
-
-
