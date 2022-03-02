@@ -11,13 +11,11 @@
 
 <p>
 
-[![MEMORIES](https://github-readme-stats.vercel.app/api/pin/?username=aseel-dweedar&repo=memories-api-react)](https://github.com/Aseel-Dweedar/memories-api-react)
-
-[![MEMORIES](https://github-readme-stats.vercel.app/api/pin/?username=aseel-dweedar&repo=memories-client-react)](https://github.com/Aseel-Dweedar/memories-client-react)
+[![MEMORIES](https://github-readme-stats.vercel.app/api/pin/?username=aseel-dweedar&repo=memo-angular)](https://github.com/Aseel-Dweedar/memo-angular)
 
 </p>
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available at [Assel Dweedar-portfolio](https://portfolio-aseel.netlify.app)
 
