@@ -11,15 +11,15 @@
 
 <p>
 
-[![MEMORIES](https://github-readme-stats.vercel.app/api/pin/?username=aseel-dweedar&repo=memo-angular)](https://github.com/Aseel-Dweedar/memo-angular)
+[![Mendix Carousel - Web widget](https://github-readme-stats.vercel.app/api/pin/?username=aseel-dweedar&repo=mx-web-multi-carousel)](https://github.com/Aseel-Dweedar/mx-web-multi-carousel)
 
 </p>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Mendix UI engineering**
 
 - 👨‍💻 All of my projects are available at [Assel Dweedar-portfolio](https://portfolio-aseel.netlify.app)
 
-- 📄 Know about my experiences [Assel Dweedar-Resume](https://docs.google.com/document/d/1BWFNcgygQ5YMuwx2K6bBbZywYSQFnklJcKjaYlkR9kU/edit)
+- 📄 Know about my experiences [Assel Dweedar-Resume](https://docs.google.com/document/d/1v_kPds4waurpMmP3seV2mgcEfu1V4InR08AGzmfKOeI/edit)
 
 - ⚡ Fun fact **I Love CSS :D**
 
